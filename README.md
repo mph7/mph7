@@ -10,4 +10,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mph7&show_icons=true&locale=en" alt="mph7" /></p>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mph7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

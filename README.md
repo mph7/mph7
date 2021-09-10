@@ -9,3 +9,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mph7&show_icons=true&theme=dark&locale=en&layout=compact" alt="mph7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mph7&show_icons=true&theme=dark&locale=en" alt="mph7" /></p>
+
+<details>
+    <summary><Font Size = "8"><strong>Projects</strong></Font></summary>
+    <ul>
+        <li><strong>JAVA</strong>
+            <ul>
+            <li><a href="https://github.com/mph7/CEPChecker">CEP Checker</a>
+            <li><a href="https://github.com/mph7/wordCounter">Word Counter</a>
+            <li><a href="https://github.com/mph7/projeto_covid">Projeto Covid</a>
+            <li><a href="https://github.com/mph7/tictactoe">Tic Tac Toe</a>
+            </ul></li></ul>

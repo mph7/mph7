@@ -13,10 +13,11 @@
 <details>
     <summary><Font Size = "8"><strong>Projects</strong></Font></summary>
     <ul>
-        <li><strong>JAVA</strong>
+        <li><strong>PYTHON</strong>
             <ul>
             <li><a href="https://github.com/mph7/CEPChecker">CEP Checker</a>
             <li><a href="https://github.com/mph7/wordCounter">Word Counter</a>
             <li><a href="https://github.com/mph7/projeto_covid">Projeto Covid</a>
             <li><a href="https://github.com/mph7/tictactoe">Tic Tac Toe</a>
+            <li><a href="https://github.com/mph7/jogoDosQuinze">Jogo dos Quinze</a>
             </ul></li></ul>

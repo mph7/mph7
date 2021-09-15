@@ -10,6 +10,25 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mph7&show_icons=true&theme=dark&locale=en" alt="mph7" /></p>
 
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/mph7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mph7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matheusphilippe-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusphilippe-" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mph7&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mph7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mph7&" alt="mph7" /></p>
+
+
+
+
+
 <details>
     <summary><Font Size = "8"><strong>Projects</strong></Font></summary>
     <ul>

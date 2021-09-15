@@ -17,10 +17,10 @@
 
 <h3 align="left">You can find me:</h3>
 <p align="left">
-<a href="https://dev.to/mph7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mph7" height="30" width="40" /></a>
+<a href="https://dev.to/mph7" target="blank"><img align="center" src="https://svgshare.com/i/aC9.svg" alt="mph7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matheusphilippe-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusphilippe-" height="30" width="40" /></a>
 </p>
-
+<a href='https://svgshare.com/s/aC9' ><img src='https://svgshare.com/i/aC9.svg' title='' /></a>
 
 
 

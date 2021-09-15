@@ -17,7 +17,7 @@
 
 <h3 align="left">You can find me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="img/brand-icon.min.svg" height="30" width="40" /></a>
+<a href="https://mph7.hashnode.dev" target="blank"><img align="center" src="img/brand-icon.min.svg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matheusphilippe-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusphilippe-" height="30" width="40" /></a>
 </p>
 

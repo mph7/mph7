@@ -1,6 +1,6 @@
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python object oriented**
 
 
 <h3 align="left">Languages and Tools:</h3>

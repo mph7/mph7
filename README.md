@@ -33,6 +33,9 @@
     <img  alt="Stats" src="https://github-readme-stat-mph7.vercel.app/api?username=mph7&show_icons=true&hide_border=true&theme=tokyonight&layout=compact" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mph7&show_icons=true&theme=tokyonight&locale=en&langs_count=8" alt="mph7" />
   <img align="left" alt="Stats" src="https://github-readme-stat-virid.vercel.app/api/wakatime?username=mph7&show_icons=true&hide_border=true&theme=tokyonight" /> 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </p>
 </details>
   

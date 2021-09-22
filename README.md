@@ -24,12 +24,11 @@
 - [Como consumir uma API em Python](https://mph7.hashnode.dev/como-consumir-uma-api-em-python)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">You can find me:</h3>
-<p align="left">
-<a href="https://mph7.hashnode.dev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85843263/133501036-3b52294c-f8c3-4199-9083-a9a7a95d2395.png" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/matheusphilippe-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusphilippe-" height="30" width="40" /></a>
-</p>
-
+<details>
+  <summary><Font Size = "8"><strong>Stats</strong></Font></summary>
+  
+  <img align="left" alt="Stats" src="https://github-readme-stat-mph7.vercel.app/api?username=mph7&show_icons=true&hide_border=true" />
+</details
 
 
 

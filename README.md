@@ -22,6 +22,7 @@
 <a href="https://linkedin.com/in/matheusphilippe-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusphilippe-" height="30" width="40" /></a>
 </p>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mph7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

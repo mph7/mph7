@@ -34,6 +34,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mph7&show_icons=true&theme=tokyonight&locale=en&langs_count=8" alt="mph7" />
   <img align="left" alt="Stats" src="https://github-readme-stat-virid.vercel.app/api/wakatime?username=mph7&show_icons=true&hide_border=true&theme=tokyonight" /> 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 </p>

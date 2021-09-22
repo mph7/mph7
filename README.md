@@ -24,12 +24,15 @@
 - [Como consumir uma API em Python](https://mph7.hashnode.dev/como-consumir-uma-api-em-python)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
+<!--<details> -->
   <summary><Font Size = "8"><strong>Stats</strong></Font></summary>
+  <div display="flex" flex-direction="column">
+  <img align="left" alt="Stats" src="https://github-readme-stat-mph7.vercel.app/api?username=mph7&show_icons=true&hide_border=true&theme=tokyonight&layout=compact" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mph7&show_icons=true&theme=tokyonight&locale=en&langs_count=8" alt="mph7" /></p>
+  <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mph7&show_icons=true&hide_border=true&theme=tokyonight&layout=compact" />  
   
-  <img align="left" alt="Stats" src="https://github-readme-stat-mph7.vercel.app/api?username=mph7&show_icons=true&hide_border=true" />
-</details
-
+</div>
+  
 
 
 <details>

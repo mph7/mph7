@@ -42,9 +42,7 @@ No Activity tracked this Week
 </p>
 </details>
   
-  
-# Todoist Stats
-
+ 
 <!-- TODO-IST:START -->
 🏆  100 Karma Points           
 🌸  Completed 1 tasks today           

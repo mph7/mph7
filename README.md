@@ -43,11 +43,20 @@ No Activity tracked this Week
 </details>
   
   
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to consume an API in Python](https://mph7.hashnode.dev/how-to-consume-an-api-in-python)
 - [Como consumir uma API em Python](https://mph7.hashnode.dev/como-consumir-uma-api-em-python)
 <!-- BLOG-POST-LIST:END -->
+
+
 
 
 <details align="left">

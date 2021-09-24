@@ -46,7 +46,7 @@ VimL     5 mins          ██████▒░░░░░░░░░░░�
   
  
 <!-- TODO-IST:START -->
-🏆  250 Karma Points           
+🏆  350 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 5 tasks so far           
 ⏳  Longest streak is 1 days

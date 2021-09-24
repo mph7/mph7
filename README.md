@@ -35,7 +35,9 @@
   <img align="left" alt="Stats" src="https://github-readme-stat-virid.vercel.app/api/wakatime?username=mph7&show_icons=true&hide_border=true&theme=tokyonight" /> 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Bash     11 mins         ████████████▒░░░░░░░░░░░░   49.57 % 
+Python   6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.60 % 
+VimL     5 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.82 % 
 ```
 <!--END_SECTION:waka-->
 

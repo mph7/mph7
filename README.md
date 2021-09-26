@@ -35,11 +35,11 @@
   <img align="left" alt="Stats" src="https://github-readme-stat-virid.vercel.app/api/wakatime?username=mph7&show_icons=true&hide_border=true&theme=tokyonight" /> 
 <!--START_SECTION:waka-->
 ```text
-Gherkin      1 hr 58 mins    ██████████████████░░░░░░░   71.62 % 
-Python       22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Bash         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-VimL         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Gherkin   1 hr 58 mins    ██████████▒░░░░░░░░░░░░░░   40.92 % 
+Python    1 hr 22 mins    ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+JSON      34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Java      17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Bash      11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 <!--END_SECTION:waka-->
 

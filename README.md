@@ -27,32 +27,18 @@
 
 
 
-<details>
-  <summary><Font Size = "8"><strong>Stats</strong></Font></summary>
-  <p align='left'>
-    <img  alt="Stats" src="https://github-readme-stats.vercel.app/api?username=mph7&show_icons=true&hide_border=true&theme=tokyonight&layout=compact" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mph7&show_icons=true&theme=tokyonight&locale=en&langs_count=8" alt="mph7" />
-  <img align="left" alt="Stats" src="https://github-readme-stat-virid.vercel.app/api/wakatime?username=mph7&show_icons=true&hide_border=true&theme=tokyonight" /> 
-<!--START_SECTION:waka-->
-```text
-Java     4 hrs 50 mins   ███████████▓░░░░░░░░░░░░░   46.40 % 
-Python   4 hrs 28 mins   ██████████▓░░░░░░░░░░░░░░   42.96 % 
-JSON     46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Other    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-YAML     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-```
-<!--END_SECTION:waka-->
 
-</p>
-</details>
   
  
-<!-- TODO-IST:START -->
-🏆  350 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 5 tasks so far           
-⏳  Longest streak is 1 days
-<!-- TODO-IST:END -->
+<div width="180%">
+  <summary><Font Size = "8"><strong>Stats</strong></Font></summary>
+  <div align='left'>
+    <img  alt="Stats" src="https://github-readme-stats.vercel.app/api?username=mph7&show_icons=true&hide_border=true&theme=tokyonight&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mph7&show_icons=true&theme=tokyonight&hide_border=true&locale=en&langs_count=8" alt="mph7" />
+  <img align="left" alt="Stats" src="https://github-readme-stat-virid.vercel.app/api/wakatime?username=mph7&show_icons=true&hide_border=true&theme=tokyonight" /> 
+
+</div>
+</div
 
 
 

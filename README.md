@@ -23,22 +23,21 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
-</p
+</p>
+
+<h3 align="left"> Stats: </h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mph7&show_icons=true&theme=tokyonight&hide_border=true&locale=en&langs_count=6" /> 
+  <img src="https://github-readme-stat-virid.vercel.app/api/wakatime?username=mph7&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mph7&show_icons=true&hide_border=true&theme=tokyonight&layout=compact" />
+
+</p>
 
 
 
 
-  
- 
-<div width="180%">
-  <summary><Font Size = "8"><strong>Stats</strong></Font></summary>
-  <div align='left'>
-    <img  alt="Stats" src="https://github-readme-stats.vercel.app/api?username=mph7&show_icons=true&hide_border=true&theme=tokyonight&layout=compact" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mph7&show_icons=true&theme=tokyonight&hide_border=true&locale=en&langs_count=8" alt="mph7" />
-  <img align="left" alt="Stats" src="https://github-readme-stat-virid.vercel.app/api/wakatime?username=mph7&show_icons=true&hide_border=true&theme=tokyonight" /> 
 
-</div>
-</div
 
 
 
@@ -61,4 +60,4 @@
             <li><a href="https://github.com/mph7/projeto_covid">Projeto Covid</a>
             <li><a href="https://github.com/mph7/tictactoe">Tic Tac Toe</a>
             <li><a href="https://github.com/mph7/jogoDosQuinze">Jogo dos Quinze</a>
-            </ul></li></ul>
+            </ul></li></ul></details>

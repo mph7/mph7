@@ -5,9 +5,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheusphilippe-">
-    <img alt="linkedin" src="https://img.shields.io/static/v1?label=Linkedin&message=matheusphilippe-&color=blue&logo=linkedin&style=flat-square" /> </a>
+    <img alt="linkedin" src="https://img.shields.io/static/v1?label=Linkedin&message=matheusphilippe-&color=blue&logo=linkedin&style=for-the-badge" /> </a>
   <a href="https://dev.to/mph7">
-    <img alt="dev.to" src="https://img.shields.io/static/v1?label=dev.to&message=mph7&color=black&logo=dev.to&style=flat-square" />
+    <img alt="dev.to" src="https://img.shields.io/static/v1?label=dev.to&message=mph7&color=black&logo=dev.to&style=for-the-badge" />
   </a>
 </p>
 

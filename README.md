@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheusphilippe-">
+  <a href="https://www.linkedin.com/in/matheusphilippe-" target="blank">
     <img alt="linkedin" src="https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&logo=linkedin&style=for-the-badge" /> </a>
   
   <a href="https://dev.to/mph7">

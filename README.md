@@ -17,7 +17,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧑‍💻 Languages and Tools:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
@@ -32,7 +32,7 @@
   
 </p>
 
-<h3 align="left"> Stats: </h3>
+<h3 align="left"> 📊 Stats: </h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mph7&show_icons=true&theme=tokyonight&hide_border=true&locale=en&langs_count=6" /> 
@@ -48,7 +48,7 @@
 
 
 
-### Blogs posts
+### 📔 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to consume an API in Python](https://mph7.hashnode.dev/how-to-consume-an-api-in-python)
 - [Como consumir uma API em Python](https://mph7.hashnode.dev/como-consumir-uma-api-em-python)
@@ -58,7 +58,7 @@
 
 
 <details align="left">
-    <summary><Font Size = "8"><strong>Projects</strong></Font></summary>
+    <summary><Font Size = "8"><strong>  Projects</strong></Font></summary>
     <ul>
         <li><strong>PYTHON</strong>
             <ul>

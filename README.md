@@ -7,8 +7,7 @@
   <a href="https://www.linkedin.com/in/matheusphilippe-" target="_blank" rel="noopener noreferrer">
     <img alt="linkedin" src="https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&logo=linkedin&style=for-the-badge" /> </a>
   
-  <a href="https://dev.to/mph7">
-    <img alt="dev.to" src="https://img.shields.io/static/v1?label=&message=DEV.TO&color=black&logo=dev.to&style=for-the-badge" /> </a>
+ 
   
   <a href="mailto:matheus.philippe2002@gmail.com">
     <img alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>

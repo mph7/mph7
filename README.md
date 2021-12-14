@@ -1,6 +1,6 @@
 
 
-- 🌱 I’m currently learning **Python object oriented**
+<!-- - 🌱 I’m currently learning **Python object oriented**-->
 
 
 <p align="center">

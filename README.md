@@ -39,7 +39,6 @@
 
 
 
-![Metrics](/github-metrics.svg)
 
 
 

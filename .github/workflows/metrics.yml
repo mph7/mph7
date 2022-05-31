@@ -27,7 +27,6 @@ jobs:
           template: classic
           base: ""
           base_indepth: yes
-          config_display: large
           config_timezone: America/Sao_Paulo
           plugin_base_indepth: yes
           plugin_languages: yes

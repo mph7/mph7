@@ -40,16 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 September 2021 - To: 28 September 2022
-
-Total Time: 17 hrs 51 mins
-
-Python       7 hrs 56 mins   ███████████░░░░░░░░░░░░░░   44.49 %
-Java         5 hrs 9 mins    ███████▒░░░░░░░░░░░░░░░░░   28.92 %
-Gherkin      2 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
-JSON         1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-Git Config   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Markdown     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -40,11 +40,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 30 September 2022
+From: 28 September 2022 - To: 01 October 2022
 
-Total Time: 2 mins
+Total Time: 21 mins
 
-Python   2 mins          █████████████████████████   100.00 %
+HTML     18 mins         █████████████████████▓░░░   86.17 %
+Python   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
 ```
 
 <!--END_SECTION:waka-->

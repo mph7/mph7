@@ -41,16 +41,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 07 October 2022
+From: 28 September 2022 - To: 08 October 2022
 
-Total Time: 4 hrs 45 mins
+Total Time: 5 hrs 15 mins
 
-Markdown   2 hrs 8 mins    ███████████▒░░░░░░░░░░░░░   45.03 %
-YAML       2 hrs 7 mins    ███████████▒░░░░░░░░░░░░░   44.84 %
-HTML       18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-C          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-JSON       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Python     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Markdown   2 hrs 8 mins    ██████████▒░░░░░░░░░░░░░░   40.75 %
+YAML       2 hrs 7 mins    ██████████░░░░░░░░░░░░░░░   40.58 %
+Docker     29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+HTML       18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+C          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+JSON       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->

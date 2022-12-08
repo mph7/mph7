@@ -56,4 +56,3 @@ Bash         2 hrs 25 mins   █▒░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-![Metrics](/github-metrics.svg)

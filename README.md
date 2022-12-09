@@ -1,17 +1,17 @@
 
-
-<!-- - 🌱 I’m currently learning **Python object oriented**-->
-
-
+<h1 align="center">Hi 👋, I'm Matheus Philippe</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/matheusphilippe-" target="_blank" rel="noopener noreferrer">
     <img alt="linkedin" src="https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&logo=linkedin&style=for-the-badge" /> </a>
-  
  
-  
   <a href="mailto:matheus.philippe2002@gmail.com">
     <img alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-    
+ 
+  🌱 I’m currently learning <strong>JavaScript</strong><br>
+  📖 Focused on learning <strong>FrontEnd Development</strong>
+
+
+   
 </p>
 
 

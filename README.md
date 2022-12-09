@@ -8,7 +8,7 @@
     <img alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
  <div align='center'>
   🌱 I’m currently learning <strong>JavaScript</strong><br>
-  📖 Focused on learning <strong>FrontEnd Development</strong>
+  📖 Focused on learning <strong>Frontend Development</strong>
 </div>
 
    

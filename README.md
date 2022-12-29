@@ -41,16 +41,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 27 December 2022
+From: 28 September 2022 - To: 28 December 2022
 
-Total Time: 53 hrs 26 mins
+Total Time: 58 hrs 11 mins
 
-JavaScript   29 hrs 7 mins   █████████████▓░░░░░░░░░░░   54.50 %
-CSS          6 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-HTML         4 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-Markdown     4 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-YAML         4 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-Docker       2 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+JavaScript   31 hrs 59 mins  █████████████▓░░░░░░░░░░░   54.99 %
+CSS          6 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+HTML         5 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Markdown     4 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+YAML         4 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Docker       2 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
 ```
 
 <!--END_SECTION:waka-->

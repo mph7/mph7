@@ -31,11 +31,8 @@
 <h3 align="left"> 📊 Stats: </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mph7&show_icons=true&theme=tokyonight&hide_border=true&locale=en&langs_count=6" /> 
-  <!--<img src="https://github-readme-stat-virid.vercel.app/api/wakatime?username=mph7&show_icons=true&hide_border=true&theme=tokyonight" />-->
-  <img src="https://github-readme-stats.vercel.app/api?username=mph7&show_icons=true&hide_border=true&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mph7&show_icons=true&theme=tokyonight&hide_border=true&locale=en&langs_count=6&layout=compact" /> 
 
-</p>
 
 
 <!--START_SECTION:waka-->
@@ -54,5 +51,5 @@ Docker       2 hrs 46 mins   ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+</p>
 

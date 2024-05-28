@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.03mb of code in 655 edited files across 214 commits</small>
+                <small>estimation from 2.03mb of code in 656 edited files across 215 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="170.91628190112743" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="170.91628190112743" y="0" width="135.58608365046084" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="306.50236555158824" y="0" width="77.86890323131855" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="384.37126878290684" y="0" width="75.62873121709319" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.5908283729454" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="171.5908283729454" y="0" width="135.2697077751417" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="306.86053614808714" y="0" width="77.68720433009902" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="384.54774047818614" y="0" width="75.45225952181387" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>3.25k lines</div>
+                                <div>3.27k lines</div>
                             </small>
                         </div>
                         <div class="field language details">

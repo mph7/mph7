@@ -3,13 +3,13 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/matheusphilippe-" target="_blank" rel="noopener noreferrer">
     <img alt="linkedin" src="https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&logo=linkedin&style=for-the-badge" /> </a>
- 
   <a href="mailto:matheus.philippe2002@gmail.com">
     <img alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
- <div align='center'>
-  🌱 I’m currently learning <strong>TypeScript</strong><br>
-  📖 Focused on learning <strong>Frontend Development</strong>
-</div>
+ <p align="center">
+  🚀 Passionate about building intuitive web applications and continuously exploring modern technologies.
+  <br />
+  🌱 Currently deepening my skills in <strong>TypeScript</strong> and focusing on <strong>Frontend Development</strong> with React.
+</p>
 
    
 </p>
@@ -19,13 +19,8 @@
 <h3 align="left">🧑‍💻 Languages and Tools:</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,tailwind,vite,html,css,git,vscode,linux" alt="Languages and Tools" />
+
 </p>
 
 <h3 align="left"> 📊 Stats: </h3>
@@ -51,4 +46,3 @@ HTML              12 hrs 41 mins  █░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </p>
-

@@ -6,9 +6,9 @@
   <a href="mailto:matheus.philippe2002@gmail.com">
     <img alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
  <p align="center">
-  🚀 Passionate about building intuitive web applications and continuously exploring modern technologies.
+  🚀 Passionate about building intuitive web applications end-to-end and continuously exploring modern technologies.
   <br />
-  🌱 Currently deepening my skills in <strong>TypeScript</strong> and focusing on <strong>Frontend Development</strong> with React.
+  🌱 Currently deepening my skills in <strong>TypeScript</strong> and <strong>Next.js</strong> while focusing on <strong>Frontend Development</strong> with React.
 </p>
 
    

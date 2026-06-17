@@ -29,20 +29,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mph7&show_icons=true&theme=tokyonight&hide_border=true&locale=en&langs_count=6&layout=compact" /> 
 
 
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 28 September 2022 - To: 16 June 2026
-
-Total Time: 424 hrs 37 mins
-
-JavaScript        150 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.41 %
-TypeScript        134 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   31.79 %
-CSS               53 hrs 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Python            20 hrs 11 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-HTML              12 hrs 41 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-```
-
-<!--END_SECTION:waka-->
 </p>
